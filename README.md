@@ -53,6 +53,8 @@
 🌐 Connect With Me
 - 🔹 [Portfolio](http://siddhant-naik-portfolio.neocities.org)
 - 🔹 [GitHub](https://github.com/Siddhantnaik909)
+- 📧 [Email](mailto:siddhantnaik909@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/siddhant-naik-349170333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
