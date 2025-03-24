@@ -46,7 +46,7 @@
 
 - 🔹 [Portfolio](http://siddhant-naik-portfolio.neocities.org)  
 - 🔹 <a href="https://github.com/Siddhantnaik909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Siddhantnaik909" height="30" width="40" /></a> GitHub  
-- 📧 <a href="mailto:siddhantnaik909@gmail.com" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/a/a7/Font_Awesome_5_solid_envelope.svg](https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg)" alt="siddhantnaik909@gmail.com" height="30" width="40" /></a> **Email**  
+- 📧 <a href="mailto:siddhantnaik909@gmail.com" target="blank"><img align="center"  alt="siddhantnaik909@gmail.com" height="30" width="40" /></a> **Email**  
 - 🔗 <a href="https://www.linkedin.com/in/siddhant-naik-349170333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-naik-349170333" height="30" width="40" /></a> **LinkedIn**
 
 ---
