@@ -101,6 +101,17 @@
 - **Cross-device compatibility** with seamless performance
 - [🔗 Live Demo](https://siddhantnaik909.github.io/Smart-Calculator-Hub/) | [📂 Repository](https://github.com/Siddhantnaik909/Smart-Calculator-Hub)
 
+### 🌐 Notes Converter App
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- **Offline web app** to convert raw notes or uploaded documents (PDF, DOC/DOCX, TXT, RTF)  
+- **Auto-converts into professional summaries** with abbreviation expansion  
+- **Features**: Copy, Download, Clear all, Auto-fill subject from filename  
+- [🔗 Live Demo](https://siddhantnaik909.github.io/notes-converter-app/) | [📂 Repository](https://github.com/Siddhantnaik909/notes-converter-app)
+
+---
 ---
 
 ## 🏆 Certifications & Learning Journey
