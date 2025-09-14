@@ -109,7 +109,8 @@
 - **Offline web app** to convert raw notes or uploaded documents (PDF, DOC/DOCX, TXT, RTF)  
 - **Auto-converts into professional summaries** with abbreviation expansion  
 - **Features**: Copy, Download, Clear all, Auto-fill subject from filename  
-- [🔗 Live Demo](https://siddhantnaik909.github.io/notes-converter-app/) | [📂 Repository](https://github.com/Siddhantnaik909/notes-converter-app)
+- [🔗 Live Demo](https://siddhantnaik909.github.io/Notes-converter-app/
+) | [📂 Repository](https://github.com/Siddhantnaik909/notes-converter-app)
 
 ---
 ---
