@@ -82,14 +82,7 @@
 - **Comprehensive project showcase**
 - [🔗 Live Demo](https://siddhantnaik909.github.io/Portfolio/) | [📂 Repository](https://github.com/Siddhantnaik909/Portfolio)
 
-### 🌐 Portfolio Website (Alternative Host)
-![Neocities](https://img.shields.io/badge/Neocities-FF69B4?style=flat-square&logo=neocities&logoColor=white)
-![Backup Host](https://img.shields.io/badge/Backup_Host-00D4AA?style=flat-square&logo=server&logoColor=white)
 
-- **Alternative hosting platform** for better accessibility
-- **Same content, different infrastructure**
-- **Ensures 24/7 portfolio availability**
-- [🔗 Live Demo](https://siddhant-naik-portfolio.neocities.org)
 
 ### 🧮 Smart Calculator Hub
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
