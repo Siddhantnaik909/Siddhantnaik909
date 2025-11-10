@@ -73,9 +73,6 @@
 - **Foundation for advanced versions**
 - [🔗 Live Demo](https://siddhantnaik909.github.io/Portfolio-version-0.01/) | [📂 Repository](https://github.com/Siddhantnaik909/Portfolio-version-0.01)
 
-### 🌐 Portfolio Website (Main Version)
-![Responsive Design](https://img.shields.io/badge/Responsive-4CAF50?style=flat-square&logo=responsive&logoColor=white)
-![Dark Mode](https://img.shields.io/badge/Dark_Mode-2F2F2F?style=flat-square&logo=dark-reader&logoColor=white)
 
 - **Enhanced portfolio** with improved functionality
 - **Advanced UI/UX design** with modern components
@@ -198,8 +195,7 @@ While new to the IT industry, I bring fresh perspective, eagerness to learn, and
 <div align="center">
   
 [![Portfolio Legacy](https://img.shields.io/badge/Portfolio_v0.01-9C27B0?style=for-the-badge&logo=firefox&logoColor=white)](https://siddhantnaik909.github.io/Portfolio-version-0.01/)
-[![Portfolio Main](https://img.shields.io/badge/Portfolio_Main-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://siddhantnaik909.github.io/Portfolio/)
-[![Portfolio Alt](https://img.shields.io/badge/Portfolio_Alternative-FF1744?style=for-the-badge&logo=neocities&logoColor=white)](https://siddhant-naik-portfolio.neocities.org)
+
 [![Smart Calculator](https://img.shields.io/badge/Smart_Calculator-4CAF50?style=for-the-badge&logo=calculator&logoColor=white)](https://siddhantnaik909.github.io/Smart-Calculator-Hub/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-naik-34917033)
