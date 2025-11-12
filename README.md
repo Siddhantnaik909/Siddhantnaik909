@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Siddhant Satish Naik
+ # 👋 Hi there! I'm Siddhant Satish Naik
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student+%7C+Entry-Level+IT+Enthusiast;Cloud+Computing+%26+Cybersecurity+Explorer;Data+Management+%26+Web+Development;Quick+Learner+%26+Tech+Passionate&center=true&width=600&height=50">
@@ -72,14 +72,6 @@
 - **Clean responsive design** with basic UI components
 - **Foundation for advanced versions**
 - [🔗 Live Demo](https://siddhantnaik909.github.io/Portfolio-version-0.01/) | [📂 Repository](https://github.com/Siddhantnaik909/Portfolio-version-0.01)
-
-
-- **Enhanced portfolio** with improved functionality
-- **Advanced UI/UX design** with modern components
-- **Comprehensive project showcase**
-- [🔗 Live Demo](https://siddhantnaik909.github.io/Portfolio/) | [📂 Repository](https://github.com/Siddhantnaik909/Portfolio)
-
-
 
 ### 🧮 Smart Calculator Hub
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
