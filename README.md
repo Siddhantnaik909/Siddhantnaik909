@@ -10,7 +10,7 @@
 
 🎓 **3rd Year BCA Student** at The Little Flower's College, Mumbai  
 💼 **Data Entry Operator** with hands-on experience in document management  
-🌟 **12+ Online Certifications** across Cloud, Cybersecurity, AI/ML, and Web Development  
+🌟 **35+ Online Certifications** across Cloud, Cybersecurity, AI/ML, and Web Development  
 🔍 **Seeking Entry-Level IT Opportunities** to grow professionally and contribute to tech innovation  
 
 📍 **Location**: Mumbai, Maharashtra, India  
